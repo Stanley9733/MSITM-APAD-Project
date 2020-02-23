@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Pickup Sports</string>
+    <string name="hint_username">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="button_login">Log In</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="button_admin">Log in as Admin</string>
+    <string name="brosweusers">Manage users</string>
+    <string name="manageevents">Manage events</string>
+    <string name="managevenues">Manage venues</string>
+    <string name="error_invalid">Username or password is incorrect</string>
+    <string name="error_empty">Please enter a username and password</string>
+    <string name="error_admin">You are not an admin!</string>
+    <string name="error_mandatory">This is a mandatory field</string>
+    <string name="test">TEST</string>
+
+</resources>
